@@ -389,15 +389,15 @@ Recommendations
 
 ### Sales Analysis
 
-![Sales Analysis](screenshots/sales analysis.png)
+![Sales Analysis](screenshots/sales_analysis.png)
 
 ### Customer Analysis
 
-![Customer Analysis](screenshots/customer analysis.png)
+![Customer Analysis](screenshots/customer_analysis.png)
 
 ### Profitability & Loss Analysis
 
-![Profitability & Loss Analysis](screenshots/proftability and loss.png)
+![Profitability & Loss Analysis](screenshots/proftability_and_loss.png)
 
 ---
 
