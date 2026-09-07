@@ -385,19 +385,19 @@ Recommendations
 
 ### Executive Overview
 
-![Executive Overview](Screenshots/Executive_Overview.png)
+![Executive Overview](screenshots/Executive_Overview.png)
 
 ### Sales Analysis
 
-![Sales Analysis](Screenshots/salesanalysis.png)
+![Sales Analysis](screenshots/sales analysis.png)
 
 ### Customer Analysis
 
-![Customer Analysis](Screenshots/customeranalysis.png)
+![Customer Analysis](screenshots/customer analysis.png)
 
 ### Profitability & Loss Analysis
 
-![Profitability & Loss Analysis](Screenshots/proftabilityandloss.png)
+![Profitability & Loss Analysis](screenshots/proftability and loss.png)
 
 ---
 
