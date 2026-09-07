@@ -448,9 +448,9 @@ ecommerce-sales-analytics/
 │
 ├── Screenshots/
 │   ├── Executive_Overview.png
-│   ├── Sales_Analysis.png
-│   ├── Customer_Analysis.png
-│   └── Profitability_Analysis.png
+│   ├── sales_analysis.png
+│   ├── customer_analysis.png
+│   └── proftability_and_loss.png
 │
 └── README.md
 
