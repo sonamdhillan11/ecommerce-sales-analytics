@@ -384,7 +384,7 @@ Recommendations
 
 ### Sales Analysis
 
-![Sales Analysis](Screenshots/ales analysis.png)
+![Sales Analysis](Screenshots/sales analysis.png)
 
 ### Customer Analysis
 
