@@ -120,7 +120,7 @@ The project follows a **star-schema data model** consisting of one fact table an
                          | Product_ID
                          |
                   Ecommerce_Products
-
+'''
 
 ### Fact Table
 
