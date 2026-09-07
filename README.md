@@ -122,6 +122,7 @@ The project follows a **star-schema data model** consisting of one fact table an
                   Ecommerce_Products
 '''
 
+
 ### Fact Table
 
 **Ecommerce_Orders**
