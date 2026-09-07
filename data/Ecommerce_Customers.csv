@@ -1,0 +1,801 @@
+Customer_ID,Customer_Segment,City
+CUST0001,Consumer,Jaipur
+CUST0002,Small Business,Kolkata
+CUST0003,Corporate,Mumbai
+CUST0004,Corporate,Delhi
+CUST0005,Consumer,Hyderabad
+CUST0006,Consumer,Kolkata
+CUST0007,Consumer,Mumbai
+CUST0008,Small Business,Delhi
+CUST0009,Corporate,Pune
+CUST0010,Corporate,Bengaluru
+CUST0011,Consumer,Chennai
+CUST0012,Small Business,Pune
+CUST0013,Small Business,Jaipur
+CUST0014,Consumer,Delhi
+CUST0015,Consumer,Pune
+CUST0016,Consumer,Bengaluru
+CUST0017,Consumer,Kolkata
+CUST0018,Consumer,Delhi
+CUST0019,Consumer,Pune
+CUST0020,Consumer,Chennai
+CUST0021,Corporate,Chennai
+CUST0022,Consumer,Mumbai
+CUST0023,Consumer,Pune
+CUST0024,Consumer,Hyderabad
+CUST0025,Consumer,Pune
+CUST0026,Corporate,Kolkata
+CUST0027,Consumer,Delhi
+CUST0028,Consumer,Delhi
+CUST0029,Corporate,Kolkata
+CUST0030,Consumer,Pune
+CUST0031,Corporate,Kolkata
+CUST0032,Consumer,Bengaluru
+CUST0033,Consumer,Jaipur
+CUST0034,Small Business,Kolkata
+CUST0035,Small Business,Chennai
+CUST0036,Small Business,Kolkata
+CUST0037,Consumer,Delhi
+CUST0038,Consumer,Chennai
+CUST0039,Corporate,Delhi
+CUST0040,Consumer,Mumbai
+CUST0041,Consumer,Hyderabad
+CUST0042,Consumer,Delhi
+CUST0043,Consumer,Chennai
+CUST0044,Small Business,Mumbai
+CUST0045,Consumer,Delhi
+CUST0046,Corporate,Bengaluru
+CUST0047,Consumer,Kolkata
+CUST0048,Consumer,Hyderabad
+CUST0049,Consumer,Delhi
+CUST0050,Consumer,Mumbai
+CUST0051,Small Business,Bengaluru
+CUST0052,Corporate,Pune
+CUST0053,Small Business,Mumbai
+CUST0054,Small Business,Kolkata
+CUST0055,Corporate,Mumbai
+CUST0056,Small Business,Bengaluru
+CUST0057,Consumer,Mumbai
+CUST0058,Consumer,Bengaluru
+CUST0059,Consumer,Delhi
+CUST0060,Consumer,Jaipur
+CUST0061,Consumer,Bengaluru
+CUST0062,Consumer,Bengaluru
+CUST0063,Small Business,Hyderabad
+CUST0064,Consumer,Bengaluru
+CUST0065,Consumer,Bengaluru
+CUST0066,Consumer,Pune
+CUST0067,Consumer,Jaipur
+CUST0068,Small Business,Delhi
+CUST0069,Consumer,Kolkata
+CUST0070,Small Business,Hyderabad
+CUST0071,Corporate,Pune
+CUST0072,Consumer,Chennai
+CUST0073,Consumer,Jaipur
+CUST0074,Small Business,Delhi
+CUST0075,Corporate,Delhi
+CUST0076,Corporate,Chennai
+CUST0077,Corporate,Kolkata
+CUST0078,Consumer,Bengaluru
+CUST0079,Consumer,Pune
+CUST0080,Consumer,Mumbai
+CUST0081,Small Business,Hyderabad
+CUST0082,Corporate,Mumbai
+CUST0083,Consumer,Chennai
+CUST0084,Consumer,Delhi
+CUST0085,Consumer,Kolkata
+CUST0086,Consumer,Delhi
+CUST0087,Corporate,Hyderabad
+CUST0088,Corporate,Delhi
+CUST0089,Small Business,Delhi
+CUST0090,Consumer,Hyderabad
+CUST0091,Consumer,Pune
+CUST0092,Corporate,Pune
+CUST0093,Corporate,Hyderabad
+CUST0094,Corporate,Kolkata
+CUST0095,Corporate,Chennai
+CUST0096,Consumer,Jaipur
+CUST0097,Consumer,Delhi
+CUST0098,Consumer,Kolkata
+CUST0099,Consumer,Delhi
+CUST0100,Consumer,Jaipur
+CUST0101,Consumer,Chennai
+CUST0102,Corporate,Pune
+CUST0103,Consumer,Kolkata
+CUST0104,Consumer,Bengaluru
+CUST0105,Small Business,Bengaluru
+CUST0106,Consumer,Jaipur
+CUST0107,Consumer,Bengaluru
+CUST0108,Corporate,Pune
+CUST0109,Consumer,Jaipur
+CUST0110,Consumer,Pune
+CUST0111,Consumer,Chennai
+CUST0112,Consumer,Delhi
+CUST0113,Small Business,Chennai
+CUST0114,Small Business,Chennai
+CUST0115,Corporate,Pune
+CUST0116,Small Business,Jaipur
+CUST0117,Small Business,Jaipur
+CUST0118,Consumer,Bengaluru
+CUST0119,Small Business,Mumbai
+CUST0120,Consumer,Delhi
+CUST0121,Small Business,Pune
+CUST0122,Small Business,Bengaluru
+CUST0123,Consumer,Kolkata
+CUST0124,Consumer,Mumbai
+CUST0125,Consumer,Mumbai
+CUST0126,Consumer,Pune
+CUST0127,Small Business,Hyderabad
+CUST0128,Small Business,Delhi
+CUST0129,Consumer,Mumbai
+CUST0130,Consumer,Pune
+CUST0131,Consumer,Pune
+CUST0132,Consumer,Bengaluru
+CUST0133,Consumer,Kolkata
+CUST0134,Consumer,Hyderabad
+CUST0135,Small Business,Delhi
+CUST0136,Consumer,Jaipur
+CUST0137,Consumer,Chennai
+CUST0138,Corporate,Kolkata
+CUST0139,Consumer,Kolkata
+CUST0140,Small Business,Bengaluru
+CUST0141,Small Business,Jaipur
+CUST0142,Consumer,Mumbai
+CUST0143,Consumer,Mumbai
+CUST0144,Consumer,Bengaluru
+CUST0145,Consumer,Pune
+CUST0146,Consumer,Mumbai
+CUST0147,Corporate,Hyderabad
+CUST0148,Consumer,Delhi
+CUST0149,Consumer,Kolkata
+CUST0150,Consumer,Kolkata
+CUST0151,Small Business,Hyderabad
+CUST0152,Consumer,Jaipur
+CUST0153,Consumer,Mumbai
+CUST0154,Consumer,Kolkata
+CUST0155,Small Business,Chennai
+CUST0156,Consumer,Jaipur
+CUST0157,Corporate,Delhi
+CUST0158,Corporate,Delhi
+CUST0159,Consumer,Kolkata
+CUST0160,Corporate,Bengaluru
+CUST0161,Consumer,Jaipur
+CUST0162,Corporate,Kolkata
+CUST0163,Corporate,Bengaluru
+CUST0164,Consumer,Kolkata
+CUST0165,Consumer,Chennai
+CUST0166,Small Business,Jaipur
+CUST0167,Consumer,Pune
+CUST0168,Consumer,Delhi
+CUST0169,Consumer,Kolkata
+CUST0170,Corporate,Chennai
+CUST0171,Corporate,Bengaluru
+CUST0172,Consumer,Bengaluru
+CUST0173,Consumer,Delhi
+CUST0174,Consumer,Hyderabad
+CUST0175,Corporate,Kolkata
+CUST0176,Consumer,Jaipur
+CUST0177,Corporate,Mumbai
+CUST0178,Consumer,Bengaluru
+CUST0179,Small Business,Jaipur
+CUST0180,Consumer,Jaipur
+CUST0181,Consumer,Pune
+CUST0182,Consumer,Jaipur
+CUST0183,Small Business,Jaipur
+CUST0184,Small Business,Pune
+CUST0185,Consumer,Bengaluru
+CUST0186,Corporate,Jaipur
+CUST0187,Small Business,Hyderabad
+CUST0188,Corporate,Hyderabad
+CUST0189,Consumer,Chennai
+CUST0190,Consumer,Pune
+CUST0191,Consumer,Chennai
+CUST0192,Small Business,Pune
+CUST0193,Small Business,Kolkata
+CUST0194,Corporate,Kolkata
+CUST0195,Consumer,Jaipur
+CUST0196,Consumer,Mumbai
+CUST0197,Corporate,Kolkata
+CUST0198,Small Business,Mumbai
+CUST0199,Small Business,Kolkata
+CUST0200,Corporate,Delhi
+CUST0201,Corporate,Kolkata
+CUST0202,Consumer,Chennai
+CUST0203,Consumer,Bengaluru
+CUST0204,Small Business,Jaipur
+CUST0205,Corporate,Chennai
+CUST0206,Consumer,Bengaluru
+CUST0207,Consumer,Hyderabad
+CUST0208,Corporate,Chennai
+CUST0209,Consumer,Hyderabad
+CUST0210,Consumer,Mumbai
+CUST0211,Consumer,Mumbai
+CUST0212,Corporate,Delhi
+CUST0213,Corporate,Kolkata
+CUST0214,Consumer,Chennai
+CUST0215,Corporate,Hyderabad
+CUST0216,Consumer,Bengaluru
+CUST0217,Consumer,Mumbai
+CUST0218,Corporate,Kolkata
+CUST0219,Corporate,Mumbai
+CUST0220,Small Business,Bengaluru
+CUST0221,Corporate,Kolkata
+CUST0222,Corporate,Kolkata
+CUST0223,Consumer,Hyderabad
+CUST0224,Consumer,Hyderabad
+CUST0225,Consumer,Chennai
+CUST0226,Consumer,Chennai
+CUST0227,Small Business,Pune
+CUST0228,Consumer,Jaipur
+CUST0229,Small Business,Pune
+CUST0230,Corporate,Delhi
+CUST0231,Corporate,Mumbai
+CUST0232,Consumer,Chennai
+CUST0233,Corporate,Hyderabad
+CUST0234,Consumer,Bengaluru
+CUST0235,Consumer,Hyderabad
+CUST0236,Corporate,Mumbai
+CUST0237,Consumer,Pune
+CUST0238,Consumer,Hyderabad
+CUST0239,Corporate,Jaipur
+CUST0240,Consumer,Delhi
+CUST0241,Small Business,Mumbai
+CUST0242,Small Business,Pune
+CUST0243,Small Business,Jaipur
+CUST0244,Consumer,Bengaluru
+CUST0245,Consumer,Pune
+CUST0246,Small Business,Kolkata
+CUST0247,Consumer,Jaipur
+CUST0248,Small Business,Jaipur
+CUST0249,Small Business,Delhi
+CUST0250,Small Business,Mumbai
+CUST0251,Consumer,Bengaluru
+CUST0252,Consumer,Delhi
+CUST0253,Small Business,Pune
+CUST0254,Consumer,Delhi
+CUST0255,Consumer,Jaipur
+CUST0256,Corporate,Mumbai
+CUST0257,Small Business,Chennai
+CUST0258,Corporate,Delhi
+CUST0259,Corporate,Kolkata
+CUST0260,Consumer,Delhi
+CUST0261,Corporate,Pune
+CUST0262,Small Business,Pune
+CUST0263,Consumer,Bengaluru
+CUST0264,Consumer,Pune
+CUST0265,Small Business,Hyderabad
+CUST0266,Corporate,Mumbai
+CUST0267,Corporate,Mumbai
+CUST0268,Corporate,Chennai
+CUST0269,Consumer,Chennai
+CUST0270,Consumer,Mumbai
+CUST0271,Small Business,Kolkata
+CUST0272,Small Business,Chennai
+CUST0273,Small Business,Bengaluru
+CUST0274,Small Business,Pune
+CUST0275,Consumer,Mumbai
+CUST0276,Consumer,Jaipur
+CUST0277,Corporate,Chennai
+CUST0278,Corporate,Mumbai
+CUST0279,Corporate,Hyderabad
+CUST0280,Corporate,Delhi
+CUST0281,Small Business,Pune
+CUST0282,Consumer,Mumbai
+CUST0283,Consumer,Delhi
+CUST0284,Consumer,Chennai
+CUST0285,Corporate,Delhi
+CUST0286,Consumer,Pune
+CUST0287,Consumer,Mumbai
+CUST0288,Consumer,Hyderabad
+CUST0289,Consumer,Kolkata
+CUST0290,Corporate,Chennai
+CUST0291,Consumer,Mumbai
+CUST0292,Consumer,Pune
+CUST0293,Small Business,Chennai
+CUST0294,Consumer,Bengaluru
+CUST0295,Consumer,Delhi
+CUST0296,Consumer,Kolkata
+CUST0297,Corporate,Pune
+CUST0298,Consumer,Bengaluru
+CUST0299,Corporate,Jaipur
+CUST0300,Consumer,Mumbai
+CUST0301,Consumer,Hyderabad
+CUST0302,Consumer,Chennai
+CUST0303,Consumer,Delhi
+CUST0304,Corporate,Chennai
+CUST0305,Corporate,Kolkata
+CUST0306,Small Business,Mumbai
+CUST0307,Consumer,Chennai
+CUST0308,Consumer,Delhi
+CUST0309,Corporate,Mumbai
+CUST0310,Consumer,Chennai
+CUST0311,Consumer,Hyderabad
+CUST0312,Consumer,Pune
+CUST0313,Consumer,Mumbai
+CUST0314,Small Business,Pune
+CUST0315,Small Business,Jaipur
+CUST0316,Corporate,Mumbai
+CUST0317,Consumer,Hyderabad
+CUST0318,Consumer,Pune
+CUST0319,Consumer,Bengaluru
+CUST0320,Consumer,Delhi
+CUST0321,Consumer,Bengaluru
+CUST0322,Corporate,Chennai
+CUST0323,Corporate,Hyderabad
+CUST0324,Consumer,Bengaluru
+CUST0325,Small Business,Mumbai
+CUST0326,Corporate,Chennai
+CUST0327,Corporate,Chennai
+CUST0328,Corporate,Bengaluru
+CUST0329,Consumer,Jaipur
+CUST0330,Consumer,Bengaluru
+CUST0331,Consumer,Jaipur
+CUST0332,Corporate,Hyderabad
+CUST0333,Consumer,Delhi
+CUST0334,Consumer,Bengaluru
+CUST0335,Consumer,Kolkata
+CUST0336,Consumer,Jaipur
+CUST0337,Small Business,Bengaluru
+CUST0338,Corporate,Pune
+CUST0339,Consumer,Mumbai
+CUST0340,Consumer,Kolkata
+CUST0341,Consumer,Kolkata
+CUST0342,Consumer,Jaipur
+CUST0343,Consumer,Pune
+CUST0344,Consumer,Pune
+CUST0345,Consumer,Chennai
+CUST0346,Corporate,Jaipur
+CUST0347,Corporate,Delhi
+CUST0348,Consumer,Mumbai
+CUST0349,Consumer,Hyderabad
+CUST0350,Corporate,Kolkata
+CUST0351,Consumer,Hyderabad
+CUST0352,Small Business,Bengaluru
+CUST0353,Corporate,Bengaluru
+CUST0354,Consumer,Hyderabad
+CUST0355,Consumer,Bengaluru
+CUST0356,Corporate,Delhi
+CUST0357,Consumer,Pune
+CUST0358,Corporate,Bengaluru
+CUST0359,Small Business,Chennai
+CUST0360,Corporate,Bengaluru
+CUST0361,Consumer,Mumbai
+CUST0362,Corporate,Delhi
+CUST0363,Consumer,Mumbai
+CUST0364,Consumer,Mumbai
+CUST0365,Small Business,Chennai
+CUST0366,Consumer,Delhi
+CUST0367,Small Business,Delhi
+CUST0368,Small Business,Jaipur
+CUST0369,Consumer,Delhi
+CUST0370,Consumer,Delhi
+CUST0371,Consumer,Delhi
+CUST0372,Consumer,Chennai
+CUST0373,Consumer,Bengaluru
+CUST0374,Corporate,Jaipur
+CUST0375,Consumer,Mumbai
+CUST0376,Consumer,Delhi
+CUST0377,Small Business,Kolkata
+CUST0378,Consumer,Bengaluru
+CUST0379,Small Business,Bengaluru
+CUST0380,Consumer,Mumbai
+CUST0381,Consumer,Chennai
+CUST0382,Corporate,Hyderabad
+CUST0383,Corporate,Hyderabad
+CUST0384,Small Business,Bengaluru
+CUST0385,Corporate,Pune
+CUST0386,Small Business,Pune
+CUST0387,Consumer,Mumbai
+CUST0388,Consumer,Hyderabad
+CUST0389,Corporate,Bengaluru
+CUST0390,Small Business,Chennai
+CUST0391,Small Business,Hyderabad
+CUST0392,Consumer,Bengaluru
+CUST0393,Consumer,Bengaluru
+CUST0394,Corporate,Delhi
+CUST0395,Consumer,Chennai
+CUST0396,Small Business,Delhi
+CUST0397,Small Business,Mumbai
+CUST0398,Consumer,Delhi
+CUST0399,Corporate,Kolkata
+CUST0400,Corporate,Delhi
+CUST0401,Consumer,Kolkata
+CUST0402,Small Business,Hyderabad
+CUST0403,Consumer,Pune
+CUST0404,Small Business,Jaipur
+CUST0405,Consumer,Jaipur
+CUST0406,Small Business,Bengaluru
+CUST0407,Consumer,Jaipur
+CUST0408,Consumer,Kolkata
+CUST0409,Small Business,Chennai
+CUST0410,Consumer,Delhi
+CUST0411,Consumer,Kolkata
+CUST0412,Small Business,Chennai
+CUST0413,Small Business,Pune
+CUST0414,Corporate,Jaipur
+CUST0415,Corporate,Pune
+CUST0416,Consumer,Jaipur
+CUST0417,Consumer,Delhi
+CUST0418,Consumer,Mumbai
+CUST0419,Corporate,Delhi
+CUST0420,Corporate,Hyderabad
+CUST0421,Corporate,Kolkata
+CUST0422,Corporate,Bengaluru
+CUST0423,Consumer,Mumbai
+CUST0424,Consumer,Delhi
+CUST0425,Consumer,Chennai
+CUST0426,Consumer,Mumbai
+CUST0427,Consumer,Kolkata
+CUST0428,Small Business,Jaipur
+CUST0429,Consumer,Mumbai
+CUST0430,Consumer,Jaipur
+CUST0431,Consumer,Kolkata
+CUST0432,Corporate,Delhi
+CUST0433,Corporate,Kolkata
+CUST0434,Consumer,Mumbai
+CUST0435,Consumer,Chennai
+CUST0436,Corporate,Pune
+CUST0437,Consumer,Mumbai
+CUST0438,Small Business,Kolkata
+CUST0439,Corporate,Pune
+CUST0440,Consumer,Kolkata
+CUST0441,Consumer,Chennai
+CUST0442,Small Business,Kolkata
+CUST0443,Consumer,Delhi
+CUST0444,Consumer,Bengaluru
+CUST0445,Small Business,Jaipur
+CUST0446,Small Business,Jaipur
+CUST0447,Small Business,Mumbai
+CUST0448,Corporate,Bengaluru
+CUST0449,Consumer,Kolkata
+CUST0450,Consumer,Chennai
+CUST0451,Corporate,Mumbai
+CUST0452,Corporate,Kolkata
+CUST0453,Consumer,Pune
+CUST0454,Small Business,Hyderabad
+CUST0455,Consumer,Kolkata
+CUST0456,Consumer,Bengaluru
+CUST0457,Consumer,Mumbai
+CUST0458,Consumer,Bengaluru
+CUST0459,Consumer,Mumbai
+CUST0460,Consumer,Kolkata
+CUST0461,Consumer,Delhi
+CUST0462,Corporate,Pune
+CUST0463,Corporate,Kolkata
+CUST0464,Corporate,Jaipur
+CUST0465,Small Business,Bengaluru
+CUST0466,Consumer,Hyderabad
+CUST0467,Consumer,Hyderabad
+CUST0468,Small Business,Chennai
+CUST0469,Consumer,Mumbai
+CUST0470,Small Business,Bengaluru
+CUST0471,Consumer,Chennai
+CUST0472,Small Business,Bengaluru
+CUST0473,Consumer,Jaipur
+CUST0474,Small Business,Mumbai
+CUST0475,Consumer,Kolkata
+CUST0476,Small Business,Kolkata
+CUST0477,Consumer,Hyderabad
+CUST0478,Corporate,Kolkata
+CUST0479,Small Business,Kolkata
+CUST0480,Consumer,Jaipur
+CUST0481,Corporate,Delhi
+CUST0482,Corporate,Hyderabad
+CUST0483,Consumer,Chennai
+CUST0484,Corporate,Pune
+CUST0485,Corporate,Delhi
+CUST0486,Small Business,Chennai
+CUST0487,Consumer,Mumbai
+CUST0488,Consumer,Delhi
+CUST0489,Small Business,Jaipur
+CUST0490,Small Business,Chennai
+CUST0491,Consumer,Mumbai
+CUST0492,Corporate,Hyderabad
+CUST0493,Consumer,Pune
+CUST0494,Consumer,Mumbai
+CUST0495,Consumer,Kolkata
+CUST0496,Consumer,Bengaluru
+CUST0497,Corporate,Mumbai
+CUST0498,Consumer,Mumbai
+CUST0499,Small Business,Pune
+CUST0500,Small Business,Bengaluru
+CUST0501,Corporate,Kolkata
+CUST0502,Consumer,Chennai
+CUST0503,Consumer,Chennai
+CUST0504,Small Business,Mumbai
+CUST0505,Corporate,Jaipur
+CUST0506,Consumer,Jaipur
+CUST0507,Small Business,Bengaluru
+CUST0508,Small Business,Bengaluru
+CUST0509,Small Business,Kolkata
+CUST0510,Corporate,Pune
+CUST0511,Corporate,Hyderabad
+CUST0512,Consumer,Chennai
+CUST0513,Small Business,Pune
+CUST0514,Small Business,Delhi
+CUST0515,Consumer,Chennai
+CUST0516,Consumer,Pune
+CUST0517,Consumer,Chennai
+CUST0518,Small Business,Hyderabad
+CUST0519,Small Business,Delhi
+CUST0520,Consumer,Jaipur
+CUST0521,Corporate,Jaipur
+CUST0522,Consumer,Hyderabad
+CUST0523,Small Business,Kolkata
+CUST0524,Small Business,Delhi
+CUST0525,Small Business,Mumbai
+CUST0526,Consumer,Pune
+CUST0527,Consumer,Delhi
+CUST0528,Consumer,Kolkata
+CUST0529,Consumer,Kolkata
+CUST0530,Small Business,Hyderabad
+CUST0531,Small Business,Chennai
+CUST0532,Small Business,Delhi
+CUST0533,Small Business,Pune
+CUST0534,Corporate,Delhi
+CUST0535,Corporate,Bengaluru
+CUST0536,Small Business,Chennai
+CUST0537,Small Business,Pune
+CUST0538,Consumer,Jaipur
+CUST0539,Consumer,Pune
+CUST0540,Consumer,Mumbai
+CUST0541,Small Business,Hyderabad
+CUST0542,Corporate,Mumbai
+CUST0543,Consumer,Pune
+CUST0544,Corporate,Chennai
+CUST0545,Corporate,Delhi
+CUST0546,Consumer,Jaipur
+CUST0547,Consumer,Delhi
+CUST0548,Corporate,Chennai
+CUST0549,Consumer,Pune
+CUST0550,Corporate,Kolkata
+CUST0551,Consumer,Delhi
+CUST0552,Small Business,Kolkata
+CUST0553,Corporate,Delhi
+CUST0554,Corporate,Delhi
+CUST0555,Small Business,Jaipur
+CUST0556,Consumer,Hyderabad
+CUST0557,Consumer,Hyderabad
+CUST0558,Consumer,Bengaluru
+CUST0559,Corporate,Mumbai
+CUST0560,Corporate,Chennai
+CUST0561,Corporate,Chennai
+CUST0562,Consumer,Chennai
+CUST0563,Consumer,Bengaluru
+CUST0564,Consumer,Hyderabad
+CUST0565,Consumer,Pune
+CUST0566,Corporate,Kolkata
+CUST0567,Consumer,Jaipur
+CUST0568,Consumer,Kolkata
+CUST0569,Small Business,Pune
+CUST0570,Consumer,Jaipur
+CUST0571,Consumer,Bengaluru
+CUST0572,Corporate,Pune
+CUST0573,Consumer,Chennai
+CUST0574,Corporate,Mumbai
+CUST0575,Small Business,Delhi
+CUST0576,Small Business,Kolkata
+CUST0577,Consumer,Hyderabad
+CUST0578,Small Business,Hyderabad
+CUST0579,Consumer,Bengaluru
+CUST0580,Consumer,Jaipur
+CUST0581,Consumer,Hyderabad
+CUST0582,Small Business,Chennai
+CUST0583,Consumer,Kolkata
+CUST0584,Consumer,Pune
+CUST0585,Corporate,Chennai
+CUST0586,Consumer,Bengaluru
+CUST0587,Consumer,Chennai
+CUST0588,Consumer,Pune
+CUST0589,Consumer,Mumbai
+CUST0590,Consumer,Bengaluru
+CUST0591,Consumer,Mumbai
+CUST0592,Corporate,Delhi
+CUST0593,Consumer,Mumbai
+CUST0594,Consumer,Delhi
+CUST0595,Small Business,Delhi
+CUST0596,Consumer,Mumbai
+CUST0597,Corporate,Bengaluru
+CUST0598,Consumer,Jaipur
+CUST0599,Consumer,Pune
+CUST0600,Consumer,Chennai
+CUST0601,Consumer,Chennai
+CUST0602,Consumer,Pune
+CUST0603,Consumer,Kolkata
+CUST0604,Consumer,Kolkata
+CUST0605,Consumer,Delhi
+CUST0606,Consumer,Delhi
+CUST0607,Consumer,Bengaluru
+CUST0608,Consumer,Hyderabad
+CUST0609,Consumer,Mumbai
+CUST0610,Corporate,Delhi
+CUST0611,Consumer,Chennai
+CUST0612,Corporate,Bengaluru
+CUST0613,Corporate,Mumbai
+CUST0614,Consumer,Bengaluru
+CUST0615,Small Business,Mumbai
+CUST0616,Small Business,Mumbai
+CUST0617,Consumer,Pune
+CUST0618,Consumer,Delhi
+CUST0619,Small Business,Jaipur
+CUST0620,Corporate,Bengaluru
+CUST0621,Consumer,Jaipur
+CUST0622,Consumer,Bengaluru
+CUST0623,Consumer,Pune
+CUST0624,Consumer,Chennai
+CUST0625,Corporate,Jaipur
+CUST0626,Consumer,Chennai
+CUST0627,Consumer,Kolkata
+CUST0628,Corporate,Delhi
+CUST0629,Consumer,Delhi
+CUST0630,Consumer,Hyderabad
+CUST0631,Corporate,Pune
+CUST0632,Small Business,Chennai
+CUST0633,Consumer,Mumbai
+CUST0634,Consumer,Bengaluru
+CUST0635,Consumer,Delhi
+CUST0636,Consumer,Jaipur
+CUST0637,Consumer,Bengaluru
+CUST0638,Consumer,Bengaluru
+CUST0639,Consumer,Hyderabad
+CUST0640,Consumer,Chennai
+CUST0641,Consumer,Delhi
+CUST0642,Consumer,Bengaluru
+CUST0643,Consumer,Delhi
+CUST0644,Consumer,Mumbai
+CUST0645,Consumer,Hyderabad
+CUST0646,Small Business,Mumbai
+CUST0647,Corporate,Delhi
+CUST0648,Corporate,Kolkata
+CUST0649,Corporate,Jaipur
+CUST0650,Consumer,Delhi
+CUST0651,Consumer,Chennai
+CUST0652,Consumer,Bengaluru
+CUST0653,Corporate,Bengaluru
+CUST0654,Corporate,Mumbai
+CUST0655,Consumer,Jaipur
+CUST0656,Consumer,Hyderabad
+CUST0657,Consumer,Kolkata
+CUST0658,Consumer,Pune
+CUST0659,Corporate,Jaipur
+CUST0660,Corporate,Bengaluru
+CUST0661,Consumer,Chennai
+CUST0662,Small Business,Jaipur
+CUST0663,Corporate,Mumbai
+CUST0664,Consumer,Mumbai
+CUST0665,Consumer,Pune
+CUST0666,Consumer,Chennai
+CUST0667,Consumer,Hyderabad
+CUST0668,Consumer,Jaipur
+CUST0669,Consumer,Chennai
+CUST0670,Consumer,Hyderabad
+CUST0671,Consumer,Chennai
+CUST0672,Small Business,Chennai
+CUST0673,Consumer,Delhi
+CUST0674,Consumer,Mumbai
+CUST0675,Consumer,Jaipur
+CUST0676,Small Business,Chennai
+CUST0677,Consumer,Jaipur
+CUST0678,Consumer,Pune
+CUST0679,Small Business,Chennai
+CUST0680,Small Business,Bengaluru
+CUST0681,Small Business,Mumbai
+CUST0682,Consumer,Bengaluru
+CUST0683,Consumer,Jaipur
+CUST0684,Corporate,Jaipur
+CUST0685,Small Business,Mumbai
+CUST0686,Corporate,Jaipur
+CUST0687,Corporate,Bengaluru
+CUST0688,Consumer,Chennai
+CUST0689,Corporate,Chennai
+CUST0690,Consumer,Delhi
+CUST0691,Consumer,Pune
+CUST0692,Consumer,Jaipur
+CUST0693,Consumer,Bengaluru
+CUST0694,Consumer,Jaipur
+CUST0695,Consumer,Jaipur
+CUST0696,Corporate,Hyderabad
+CUST0697,Consumer,Delhi
+CUST0698,Corporate,Bengaluru
+CUST0699,Consumer,Bengaluru
+CUST0700,Consumer,Jaipur
+CUST0701,Consumer,Delhi
+CUST0702,Consumer,Chennai
+CUST0703,Consumer,Bengaluru
+CUST0704,Consumer,Chennai
+CUST0705,Consumer,Delhi
+CUST0706,Small Business,Chennai
+CUST0707,Consumer,Mumbai
+CUST0708,Small Business,Hyderabad
+CUST0709,Consumer,Kolkata
+CUST0710,Corporate,Bengaluru
+CUST0711,Corporate,Pune
+CUST0712,Corporate,Hyderabad
+CUST0713,Consumer,Kolkata
+CUST0714,Consumer,Chennai
+CUST0715,Consumer,Bengaluru
+CUST0716,Small Business,Chennai
+CUST0717,Small Business,Mumbai
+CUST0718,Small Business,Delhi
+CUST0719,Consumer,Bengaluru
+CUST0720,Corporate,Kolkata
+CUST0721,Small Business,Kolkata
+CUST0722,Consumer,Mumbai
+CUST0723,Consumer,Mumbai
+CUST0724,Corporate,Jaipur
+CUST0725,Corporate,Bengaluru
+CUST0726,Small Business,Chennai
+CUST0727,Consumer,Pune
+CUST0728,Corporate,Kolkata
+CUST0729,Consumer,Kolkata
+CUST0730,Consumer,Mumbai
+CUST0731,Consumer,Hyderabad
+CUST0732,Small Business,Mumbai
+CUST0733,Corporate,Pune
+CUST0734,Consumer,Chennai
+CUST0735,Consumer,Chennai
+CUST0736,Small Business,Hyderabad
+CUST0737,Consumer,Kolkata
+CUST0738,Small Business,Mumbai
+CUST0739,Consumer,Jaipur
+CUST0740,Consumer,Chennai
+CUST0741,Consumer,Pune
+CUST0742,Consumer,Bengaluru
+CUST0743,Corporate,Delhi
+CUST0744,Consumer,Delhi
+CUST0745,Consumer,Delhi
+CUST0746,Small Business,Jaipur
+CUST0747,Consumer,Kolkata
+CUST0748,Consumer,Mumbai
+CUST0749,Small Business,Hyderabad
+CUST0750,Corporate,Jaipur
+CUST0751,Consumer,Jaipur
+CUST0752,Small Business,Chennai
+CUST0753,Corporate,Bengaluru
+CUST0754,Consumer,Jaipur
+CUST0755,Consumer,Pune
+CUST0756,Corporate,Bengaluru
+CUST0757,Corporate,Pune
+CUST0758,Consumer,Kolkata
+CUST0759,Small Business,Mumbai
+CUST0760,Corporate,Delhi
+CUST0761,Consumer,Jaipur
+CUST0762,Consumer,Mumbai
+CUST0763,Consumer,Kolkata
+CUST0764,Corporate,Hyderabad
+CUST0765,Consumer,Hyderabad
+CUST0766,Corporate,Kolkata
+CUST0767,Corporate,Pune
+CUST0768,Small Business,Chennai
+CUST0769,Consumer,Chennai
+CUST0770,Small Business,Pune
+CUST0771,Consumer,Hyderabad
+CUST0772,Small Business,Hyderabad
+CUST0773,Consumer,Jaipur
+CUST0774,Consumer,Hyderabad
+CUST0775,Corporate,Mumbai
+CUST0776,Consumer,Hyderabad
+CUST0777,Consumer,Bengaluru
+CUST0778,Corporate,Jaipur
+CUST0779,Corporate,Delhi
+CUST0780,Corporate,Hyderabad
+CUST0781,Corporate,Pune
+CUST0782,Consumer,Delhi
+CUST0783,Consumer,Mumbai
+CUST0784,Consumer,Pune
+CUST0785,Consumer,Delhi
+CUST0786,Small Business,Pune
+CUST0787,Corporate,Mumbai
+CUST0788,Consumer,Jaipur
+CUST0789,Consumer,Bengaluru
+CUST0790,Small Business,Mumbai
+CUST0791,Consumer,Mumbai
+CUST0792,Corporate,Pune
+CUST0793,Consumer,Jaipur
+CUST0794,Corporate,Kolkata
+CUST0795,Consumer,Chennai
+CUST0796,Small Business,Hyderabad
+CUST0797,Small Business,Hyderabad
+CUST0798,Corporate,Bengaluru
+CUST0799,Corporate,Bengaluru
+CUST0800,Small Business,Hyderabad

@@ -1,0 +1,13 @@
+Product_ID,Product,Category,Subcategory
+P001,Laptop Pro 14,Electronics,Computers
+P002,Wireless Mouse,Electronics,Accessories
+P003,Mechanical Keyboard,Electronics,Accessories
+P004,Smartphone X,Electronics,Mobiles
+P005,Tablet Air,Electronics,Tablets
+P006,Office Chair,Furniture,Chairs
+P007,Study Desk,Furniture,Desks
+P008,Bookshelf,Furniture,Storage
+P009,Printer,Office Supplies,Machines
+P010,Notebook Pack,Office Supplies,Stationery
+P011,Desk Organizer,Office Supplies,Stationery
+P012,Premium Headphones,Electronics,Accessories
