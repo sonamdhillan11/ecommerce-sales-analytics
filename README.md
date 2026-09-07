@@ -170,6 +170,7 @@ Total Quantity = SUM(Ecommerce_Orders[Quantity])
 AOV = DIVIDE([Total Sales], [Total Orders])
 
 Profit Margin = DIVIDE([Total Profit], [Total Sales], 0)
+```
 
 ---
 
@@ -376,6 +377,7 @@ Power BI Visualization
 Business Insights
    ↓
 Recommendations
+```
 
 ---
 
@@ -387,15 +389,15 @@ Recommendations
 
 ### Sales Analysis
 
-![Sales Analysis](Screenshots/sales analysis.png)
+![Sales Analysis](Screenshots/salesanalysis.png)
 
 ### Customer Analysis
 
-![Customer Analysis](Screenshots/customer analysis.png)
+![Customer Analysis](Screenshots/customeranalysis.png)
 
 ### Profitability & Loss Analysis
 
-![Profitability & Loss Analysis](Screenshots/proftability and loss.png)
+![Profitability & Loss Analysis](Screenshots/proftabilityandloss.png)
 
 ---
 
