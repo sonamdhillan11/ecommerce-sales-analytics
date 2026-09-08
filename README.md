@@ -423,14 +423,6 @@ Recommendations
 
 ---
 
-## 👩‍💻 Author
-
-**Sonam Dhillan**
-
-Aspiring Data Analyst
-
-**Skills:** SQL | Power BI | DAX | Excel | Python | Data Analytics | Machine Learning
-
 ## 📁 Repository Structure
 
 ecommerce-sales-analytics/
